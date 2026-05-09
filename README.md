@@ -6,7 +6,6 @@ React Developer
 
 * 🌍  I'm based in India
 * ✉  You can contact me at [kvenkatvarun9@gmail.com](mailto:kvenkatvarun9@gmail.com)
-* 🚀  I'm currently working on [E2EE Chat Application](http://github.com/kvarun999/ChatApplication)
 * 🧠  I'm currently learning Artificial Intelligence , Advanced Data Structures & Algorithms
 * 👥  I'm looking to collaborate on react & AI projects
 
